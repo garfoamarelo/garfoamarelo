@@ -1,4 +1,4 @@
-#sobre mim 
+ #sobre mim 
 - 👋 Hi, I’m @garfoamarelo
 - :+1:meu email de contato é michele.maciel@escola.pr.gov.br
 - 👀 eu estou interessado em aprender a programar novas linguagens.
